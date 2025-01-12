@@ -10,7 +10,18 @@ ul {
     list-style-type: none;
 }
 
+#text,
+#text-two,
+#text-three {
+    color: aqua;
+}
+
 .text {
     color: blue;
 }
+
+[type='button'] {
+    background-color: brown;
+}
+
 
