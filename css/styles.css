@@ -1,3 +1,7 @@
+body {
+    font-family: Montserrat, sans-serif;
+}
+
 /* * h3 {
     color: green;
 } */
@@ -10,7 +14,7 @@ ul {
     list-style-type: none;
 }
 
-#text,
+/* #text,
 #text-two,
 #text-three {
     color: aqua;
@@ -22,6 +26,6 @@ ul {
 
 [type='button'] {
     background-color: brown;
-}
+} */
 
 
